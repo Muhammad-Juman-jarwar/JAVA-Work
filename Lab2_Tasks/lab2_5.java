@@ -34,7 +34,7 @@ class lab2_5 {
             System.out.println("Authentication Successful \nWelcome Mr. Sarfaraz");
         }
         else 
-        {
+        {            
             System.out.println("Authentication Failed \nYour Login Details Did Not Matched");
         }
     }
