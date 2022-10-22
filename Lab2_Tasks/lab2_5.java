@@ -13,9 +13,9 @@ class lab2_5 {
         String[][] arr = {{"Muhammad_Juman","Awais","Ranveer","Ahmar","Sarfaraz"},{"jarwar","pitafi","singh","hakro","malik"}};
     
         Scanner s = new Scanner(System.in);
-        System.out.print("Enter username: ");//username: Muhammad_Juman
+        System.out.print("Enter username: ");
         username = s.nextLine();
-        System.out.print("Enter password: ");//password:jarwar
+        System.out.print("Enter password: ");
         password = s.nextLine();
         if(username.equals(arr[0][0]) && password.equals(arr[1][0]))
         {
