@@ -1,4 +1,6 @@
 // Create multiple variables of every single data type and print them to user with their names.
+
+
 class lab1_1{
     public static void main(String[] args){
         
