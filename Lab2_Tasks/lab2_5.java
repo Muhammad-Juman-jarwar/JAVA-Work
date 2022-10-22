@@ -11,7 +11,7 @@ class lab2_5 {
         String username, password;
 
         String[][] arr = {{"Muhammad_Juman","Awais","Ranveer","Ahmar","Sarfaraz"},{"jarwar","pitafi","singh","hakro","malik"}};
-
+    
         Scanner s = new Scanner(System.in);
         System.out.print("Enter username: ");//username: Muhammad_Juman
         username = s.nextLine();
